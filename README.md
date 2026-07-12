@@ -130,7 +130,7 @@ python app.py
 ## 🔗 Live Testing Access
 
 * **Sandbox Onboarding Link:** Click [here to join the WhatsApp Sandbox](https://wa.me/14155238886?text=join%20machine-tape) *(Pre-fills your client text entry box with the required activation string).*
-* **Deployed Bot Server Status:** `Coming Soon` 🚀
+* **Deployed Bot Server Status:** `Active` 🚀
 
 ```
 
